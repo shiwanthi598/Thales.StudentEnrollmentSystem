@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tD7ZOPx1F3kNlY1IJ4TNgAXgeWPUWwDhyTqTxelEB84=",
+  "Source": "Thales.StudentEnrollmentSystem.API",
+  "BasePath": "_content/Thales.StudentEnrollmentSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

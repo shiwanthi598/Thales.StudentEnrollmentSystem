@@ -1,0 +1,6 @@
+@Thales.StudentEnrollmentSystem.API_HostAddress = http://localhost:5174
+
+GET {{Thales.StudentEnrollmentSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

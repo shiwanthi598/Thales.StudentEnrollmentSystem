@@ -1,0 +1,14 @@
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\bin\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.deps.json
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\bin\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.runtimeconfig.json
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\bin\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.dll
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\bin\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.pdb
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.csproj.AssemblyReference.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.AssemblyInfoInputs.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.AssemblyInfo.cs
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.dll
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\refint\Thales.StudentEnrollmentSystem.DAL.dll
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.pdb
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.DAL.genruntimeconfig.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.DAL\obj\Debug\net8.0\ref\Thales.StudentEnrollmentSystem.DAL.dll

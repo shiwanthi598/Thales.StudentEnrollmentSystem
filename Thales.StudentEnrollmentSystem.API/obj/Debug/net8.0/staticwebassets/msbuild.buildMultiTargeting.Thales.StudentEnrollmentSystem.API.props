@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Thales.StudentEnrollmentSystem.API.props" />
+</Project>

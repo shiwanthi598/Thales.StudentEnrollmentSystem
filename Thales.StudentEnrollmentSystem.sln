@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thales.StudentEnrollmentSystem.DAL", "Thales.StudentEnrollmentSystem.DAL\Thales.StudentEnrollmentSystem.DAL.csproj", "{FA66C5A2-69B6-438B-AACB-E75432EB930F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thales.StudentEnrollmentSystem.API", "Thales.StudentEnrollmentSystem.API\Thales.StudentEnrollmentSystem.API.csproj", "{D30C7CBC-F468-47C1-9747-9352E8D117A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thales.StudentEnrollmentSystem.Presentation", "Thales.StudentEnrollmentSystem.Presentation\Thales.StudentEnrollmentSystem.Presentation.csproj", "{5546D772-3687-4BAF-8448-7FDD68BD3821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA66C5A2-69B6-438B-AACB-E75432EB930F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA66C5A2-69B6-438B-AACB-E75432EB930F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA66C5A2-69B6-438B-AACB-E75432EB930F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA66C5A2-69B6-438B-AACB-E75432EB930F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30C7CBC-F468-47C1-9747-9352E8D117A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30C7CBC-F468-47C1-9747-9352E8D117A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30C7CBC-F468-47C1-9747-9352E8D117A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30C7CBC-F468-47C1-9747-9352E8D117A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5546D772-3687-4BAF-8448-7FDD68BD3821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5546D772-3687-4BAF-8448-7FDD68BD3821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5546D772-3687-4BAF-8448-7FDD68BD3821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5546D772-3687-4BAF-8448-7FDD68BD3821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

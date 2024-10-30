@@ -1,0 +1,5 @@
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.Presentation\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.Presentation.csproj.AssemblyReference.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.Presentation\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.Presentation\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.Presentation.AssemblyInfoInputs.cache
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.Presentation\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.Presentation.AssemblyInfo.cs
+C:\Apsara\Projects\ThalesSESApp\Thales.StudentEnrollmentSystem\Thales.StudentEnrollmentSystem.Presentation\obj\Debug\net8.0\Thales.StudentEnrollmentSystem.Presentation.csproj.CoreCompileInputs.cache
